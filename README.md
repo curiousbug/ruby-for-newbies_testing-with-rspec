@@ -1,4 +1,4 @@
-# Ruby for Newbies: Testing with RSpec
+## Ruby for Newbies: Testing with RSpec
 
 This is my implementation of the exercise as laid out in the tutorial which can be found at:
 
